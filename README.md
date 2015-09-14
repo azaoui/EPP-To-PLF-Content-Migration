@@ -28,3 +28,7 @@ http://localhost:8080/portal/rest/migration/epp2plfdatamigration/migrateLinks
 
 #Migrate TaxonomyAction
 http://localhost:8080/portal/rest/migration/epp2plfdatamigration/migrateTaxonomyAction
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/azaoui/epp-to-plf-content-migration/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
